@@ -1,0 +1,14 @@
+[
+  { "item": "Diamant", "prix": 120, "date": "2026-07-15T09:00:00Z" },
+  { "item": "Diamant", "prix": 135, "date": "2026-07-15T12:00:00Z" },
+  { "item": "Diamant", "prix": 110, "date": "2026-07-15T15:00:00Z" },
+  { "item": "Diamant", "prix": 128, "date": "2026-07-15T18:00:00Z" },
+  { "item": "Netherite", "prix": 900, "date": "2026-07-15T09:00:00Z" },
+  { "item": "Netherite", "prix": 950, "date": "2026-07-15T12:00:00Z" },
+  { "item": "Netherite", "prix": 870, "date": "2026-07-15T15:00:00Z" },
+  { "item": "Netherite", "prix": 1000, "date": "2026-07-15T18:00:00Z" },
+  { "item": "Émeraude", "prix": 40, "date": "2026-07-15T09:00:00Z" },
+  { "item": "Émeraude", "prix": 45, "date": "2026-07-15T12:00:00Z" },
+  { "item": "Émeraude", "prix": 38, "date": "2026-07-15T15:00:00Z" },
+  { "item": "Émeraude", "prix": 42, "date": "2026-07-15T18:00:00Z" }
+]
