@@ -1,0 +1,13 @@
+[
+  { "item": "iron_ingot", "prix": 7.2, "date": "2026-07-18T20:30:00Z" },
+  { "item": "lapis_lazuli", "prix": 8.0, "date": "2026-07-18T20:30:00Z" },
+  { "item": "gold_ingot", "prix": 22.4, "date": "2026-07-18T20:30:00Z" },
+  { "item": "amethyst_shard", "prix": 17.4, "date": "2026-07-18T20:30:00Z" },
+  { "item": "raw_iron", "prix": 3.9, "date": "2026-07-18T20:30:00Z" },
+  { "item": "white_wool", "prix": 3.0, "date": "2026-07-18T20:30:00Z" },
+  { "item": "ink_sac", "prix": 3.8, "date": "2026-07-18T20:30:00Z" },
+  { "item": "magma_cream", "prix": 7.0, "date": "2026-07-18T20:30:00Z" },
+  { "item": "blaze_rod", "prix": 19.6, "date": "2026-07-18T20:30:00Z" },
+  { "item": "feather", "prix": 1.3, "date": "2026-07-18T20:30:00Z" },
+  
+]
